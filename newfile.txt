@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Already created and stashed this is the second file.
+=======
+Hi this is kavish.
+>>>>>>> Stashed changes
 =======
 Hi this is kavish.
 >>>>>>> Stashed changes
