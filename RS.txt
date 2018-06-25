@@ -1,5 +1,17 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 second commit after stash
+=======
+First stash commit
+>>>>>>> Stashed changes
+=======
+First stash commit
+>>>>>>> Stashed changes
+=======
+First stash commit
+>>>>>>> Stashed changes
 =======
 First stash commit
 >>>>>>> Stashed changes
