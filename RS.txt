@@ -2,6 +2,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -30,6 +31,9 @@ First stash commit
 >>>>>>> Stashed changes
 =======
 >>>>>>> branch1
+=======
+First stash commit
+>>>>>>> Stashed changes
 =======
 First stash commit
 >>>>>>> Stashed changes
