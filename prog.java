@@ -9,9 +9,11 @@
 	   System.out.println("Hello World");
            System.out.println(c);
 		int d=a*b;
-		System.out.println(d);	
+		System.out.println("Multiplication :"+d);	
 		int e= a/b;
-		System.out.println(e);
+		System.out.println("Division"+e);
+		int sub=a-b;
+		System.out.println("Subtraction"+sub);
 	}
 
 
