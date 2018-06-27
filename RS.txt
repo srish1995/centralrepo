@@ -1,0 +1,39 @@
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+>>>>>>> branch1
+second commit after stash
+=======
+First stash commit
+>>>>>>> Stashed changes
+=======
+First stash commit
+>>>>>>> Stashed changes
+=======
+First stash commit
+>>>>>>> Stashed changes
+<<<<<<< HEAD
+=======
+First stash commit
+>>>>>>> Stashed changes
+=======
+First stash commit
+>>>>>>> Stashed changes
+=======
+First stash commit
+>>>>>>> Stashed changes
+=======
+>>>>>>> branch1
+=======
+First stash commit
+>>>>>>> Stashed changes
+=======
+First stash commit
+>>>>>>> Stashed changes
