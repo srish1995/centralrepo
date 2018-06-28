@@ -14,6 +14,7 @@
 		System.out.println("Division"+e);
 		int sub=a-b;
 		System.out.println("Subtraction"+sub);
+		System.out.println("Showing basic maths");
 	}
 
 
