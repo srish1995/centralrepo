@@ -1,8 +1,12 @@
-import java.io.*;
-class hello
-{
-public static void main(String args[])
-{
-System.out.println("Hello");
+Jenkinsfile (Declarative Pipeline)
+pipeline {
+    agent { docker { image 'maven:3.3.3' } }
+    stages {
+        stage('build') {
+            steps {
+                sh 'mvn --version'
+            }
+        }
+    }
 }
-}
+
