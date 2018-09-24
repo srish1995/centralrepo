@@ -8,3 +8,4 @@ Hi this is kavish.
 Hi this is kavish.
 >>>>>>> Stashed changes
 file edited
+hi
