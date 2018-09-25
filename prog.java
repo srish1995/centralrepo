@@ -14,6 +14,8 @@
 		System.out.println("Subtraction"+sub);
 		int mod= a%b;
 		System.out.println("Mod"+mod);
+		int mul = a*b;
+		System.out.println("multiplication"+mul);
 
 	}
 
