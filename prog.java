@@ -2,7 +2,7 @@
 
  class prog
   {
-     public static void main(String args[]);
+     public static void main(String args[])
 	{ 
                int a=18,b=7;
                int c = a+b;
