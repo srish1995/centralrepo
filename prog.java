@@ -14,7 +14,8 @@
 		System.out.println("Division"+e);
 		int sub=a-b;
 		System.out.println("Subtraction"+sub);
-		
+		int mod= a%b;
+		System.out.println("Mod"+mod);
 	}
 
 
