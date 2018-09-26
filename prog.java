@@ -16,6 +16,8 @@
 		System.out.println("Mod"+mod);
 		int mul = a*b;
 		System.out.println("multiplication"+mul);
+		int sum= mul-sub;
+		System.out.println("summation"+sum);
 
 	}
 
