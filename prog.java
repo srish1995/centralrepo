@@ -17,7 +17,7 @@
 		int mul = a*b;
 		System.out.println("multiplication"+mul);
 		int app = mul-sub;
-		System.out.println("subtraction of mul & sub"+app);
+		System.out.println("subtraction of mul sub"+app);
 
 	}
 
