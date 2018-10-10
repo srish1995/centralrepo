@@ -4,7 +4,7 @@
   {
      public static void main(String args[])
 	{ 
-               int a=50,b=10;
+               int a=30,b=10;
                int c = a+b;
 	   System.out.println("Basic Maths");
            System.out.println("Addition"+c);	
