@@ -1,0 +1,10 @@
+<settings>
+ <servers>
+   <server>
+      <id>github</id>	     
+      <username>srish1995</username>
+	 <password>srish@1995</password>      
+	 <url>http://localhost:8081/repository/maven-all/</url>	
+	 </server>							          </servers>
+</settings>
+								  
