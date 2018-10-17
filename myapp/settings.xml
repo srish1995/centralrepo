@@ -1,0 +1,9 @@
+<settings>
+	<mirrors>
+		<mirror>
+			<id>nexus</id>
+			<url>http://localhost:8081/repository/maven-all/</url>
+			<mirrorOf>*</mirrorOf>
+		</mirror>
+	</mirrors>
+</settings>
